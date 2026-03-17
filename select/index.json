@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Push that（feat. MonyHorse）",
+  "base_artist": "Yvng Patra",
+  "createdAt": "2026-03-17T16:20:02.623307Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Push that (feat. MonyHorse)",
+      "artist": "Yvng Patra",
+      "has_synced": false,
+      "path": "select/pl_01_Push_that_(feat._MonyHorse)_Yvng_Patra.txt"
+    }
+  ]
+}
